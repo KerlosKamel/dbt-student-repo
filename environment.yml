@@ -1,0 +1,7 @@
+name: sf-dbt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - dbt-snowflake
